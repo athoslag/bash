@@ -3,4 +3,4 @@ Designed for MacOS, contains a few useful commands, as well as a way to easily c
 
 ## ColorSchemes
 ### Obsidian
-![Obsidian](https://github.com/athoslag/bash/blob/master/.images/ColorScheme.png)
+<img src="https://github.com/athoslag/bash/blob/master/.images/ColorScheme.png" data-canonical-src="https://github.com/athoslag/bash/blob/master/.images/ColorScheme.png" height="500" />
